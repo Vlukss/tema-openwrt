@@ -3,7 +3,7 @@
 </p>
 
 
-  Jangan lupa ketik cd & ls terlebih dahulu lanjut dibawah ini
+  Jangan lupa ketik cd & ls terlebih dahulu lanjut dibawah ini
 
 
 <pre><code>opkg install *.ipk</code></pre>
